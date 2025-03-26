@@ -33,7 +33,7 @@ sinine_kiirus = 5 # Algne kiirus sinistele autodele
 skor = 0 # Algne skoor
 
 # Fondi seaded
-font = pygame.font.Font(None, 36) # Loome fondi objekti
+font = pygame.font.Font(None, 30) # Loome fondi objekti
 
 running = True # Mängu tsükkel jookseb seni, kuni running on True
 while running:
